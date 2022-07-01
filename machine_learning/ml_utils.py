@@ -20,7 +20,7 @@ import imblearn
 
 ## for deep learning
 from tensorflow.keras import models, layers, backend as K
-import minisom
+
 
 ## for explainer
 from lime import lime_tabular
