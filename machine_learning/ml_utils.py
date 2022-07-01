@@ -12,7 +12,7 @@ import itertools
 import scipy
 import statsmodels.formula.api as smf
 import statsmodels.api as sm
-import ppscore
+
 
 ## for machine learning
 from sklearn import preprocessing, impute, utils, linear_model, feature_selection, model_selection, metrics, decomposition, cluster, ensemble
